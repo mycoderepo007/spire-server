@@ -1,11 +1,11 @@
-{
+ {
     "keys": [
         {
             "kty": "EC",
-            "kid": "BEmd8NycCAhYgmTQt6TZiy1crDMQ7stl",
+            "kid": "zfWbXpOyF1uPRIjuM91Hiub1CDxGMg7N",
             "crv": "P-256",
-            "x": "A9rp89V1oYqDsAc9PtRxwFt14r17OZmx5zPJW3VCemg",
-            "y": "Hf8Bi2sQ8rTMCDWwOHAq4xsA5VQlfiNjv7eYKwwFO80"
+            "x": "KRbPUqkHiiKpEWMtzaLTjrG_YfmSaPNHZfk2r-P6KP8",
+            "y": "WAy8Ki5Z7ewaoSEavINi5Fz-U0_m3GN6-x8u5FXgUIw"
         }
     ]
 }
